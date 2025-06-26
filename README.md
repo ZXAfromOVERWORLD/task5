@@ -8,10 +8,3 @@ Deploy a basic app using Kubernetes locally with Minikube.
 - kubectl
 - Docker
 
----
-
-## Instructions
-
-### 1. Start Minikube
-```bash
-minikube start
